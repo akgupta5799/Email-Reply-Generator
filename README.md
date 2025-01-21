@@ -10,5 +10,5 @@ Spring Boot backend for API management.
 **Tech Stack:**  Spring Boot, Spring AI, React, AI API integration, Postman (for testing purpose).
 
 **Screenshots:** 
-![AI Reply](AI Reply.png)
-![Email Reply Generator](Email Reply Generato.png)
+![AI Reply](AI%20Reply.png)
+![Email Reply Generator](Email%20Reply%20Generato.png)
