@@ -1,4 +1,4 @@
-**Project Title:** Smart Email Assistant
+**Project Title:** Smart Email Assistant ( A Browser Extension)
 
 **Description**: An AI-powered tool for generating email replies, including a browser extension, React-based frontend, and Spring Boot backend.
 
